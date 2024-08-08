@@ -42,7 +42,7 @@ To run the Gemini AI Clone locally on your machine, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Sohamburkule/GeminiAi-Clone.git
+   git clone https://github.com/username/GeminiAi-Clone.git
    ```
 
 2. Navigate to the project directory:
